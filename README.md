@@ -7,26 +7,8 @@ Tenho 20 anos e sou apaixonada por design, tecnologia e inovação! 💡✨ Atua
 
 🚀 Meu objetivo é criar experiências digitais intuitivas e impactantes, unindo estética e funcionalidade. No momento, estou aprofundando meus estudos em design de interface, experiência do usuário e desenvolvimento web.
 
-<p style="display: flex; gap: 10px; align-items: center;">
-    <a href="https://www.linkedin.com/in/biasinesio/" 
-       title="Me siga no LinkedIn" 
-       style="display: flex; align-items: center; background-color:rgb(75, 78, 243); color: white; padding: 8px 12px; border-radius: 6px; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
-             width="20" height="20" 
-             alt="LinkedIn" 
-             style="filter: invert(1); margin-right: 8px;">
-        LinkedIn
-    </a>
-    <a href="https://github.com/biasinesio" 
-       title="Me siga no GitHub" 
-       style="display: flex; align-items: center; background-color:hsl(323, 93.70%, 68.80%); color: white; padding: 8px 12px; border-radius: 6px; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" 
-             width="20" height="20" 
-             alt="GitHub" 
-             style="filter: invert(1); margin-right: 8px;">
-        GitHub
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biasinesio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biasinesio)
 
 ---
 
