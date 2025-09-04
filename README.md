@@ -2,7 +2,7 @@
 
 **`UI UX Designer Desenvolvedora Fron-ent`**
 
-#Olá! 👋 Sou Ana Beatriz Sinésio
+Olá! 👋 Sou Ana Beatriz Sinésio
 Tenho 20 anos e sou apaixonada por design, tecnologia e inovação! 💡✨ Atualmente, curso Sistemas para Internet e sou formada em design gráfico, meu foco agora é em UI/UX e desenvolvimento Front-end.
 
 🚀 Meu objetivo é criar experiências digitais intuitivas e impactantes, unindo estética e funcionalidade. No momento, estou aprofundando meus estudos em design de interface, experiência do usuário e desenvolvimento web.
