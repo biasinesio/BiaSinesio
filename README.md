@@ -48,14 +48,6 @@ Tenho 20 anos e sou apaixonada por design, tecnologia e inovação! 💡✨ Atua
 />
 <img 
     align="left" 
-    alt="React Native"
-    title="React Native" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Typescript"
     title="Typescript" 
     width="30px" 
@@ -68,7 +60,7 @@ Tenho 20 anos e sou apaixonada por design, tecnologia e inovação! 💡✨ Atua
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
 
 <img 
